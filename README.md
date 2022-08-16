@@ -1,3 +1,3 @@
 Welcome to My Project on github.
 - 👋 Hi, I’m peet
-- 👀 I’m interested in programmer and coding
+- 👀 I’m looking for work software engineer or software developer
