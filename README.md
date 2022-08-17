@@ -1,6 +1,6 @@
-<p align="center"><img width="80%" alt="Hello, I'm Peach" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-Welcome to My Project on github.
-- 👋 Hi, I’m peach
+# Hi, I’m peach 👋
+About me
 - 👀 I’m looking for work software engineer or software developer
+- I have experience working back-end developer 
+- I like to create games using Unity and Unreal Engine
+- I'm still junior developer, but ready to learn to become senior developer
